@@ -11,5 +11,6 @@
 @interface UIWindow (JHTouchIndicator)
 
 + (void)enableIndicator;
++ (void)enableHighlighting;
 
 @end
